@@ -1,4 +1,4 @@
-# 📅 Day 01 - [23 March 2026]
+# 📅 Day 01 - [29 March 2026]
 
 ## 📚 What I Learned
 
@@ -28,7 +28,5 @@
 * Need deeper understanding of real-world data preprocessing techniques
 
 ## 🎯 Plan for Tomorrow
-
-* Solve at least 1–2 DSA problems
 * Learn other concepts in machine learning
 
